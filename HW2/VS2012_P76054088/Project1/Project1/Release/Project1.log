@@ -1,0 +1,27 @@
+﻿已經開始建置於 2017/1/15 下午 10:06:02。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\User\Desktop\影像處理\HW2\VS2012_P76054088\Project1\Project1\Project1.vcxproj"。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Xml.dll" /analyze- /errorReport:prompt MyForm.cpp
+         MyForm.cpp
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 請參閱 'fopen' 的宣告
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(212): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 請參閱 'fopen' 的宣告
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(217): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : 請參閱 'fscanf' 的宣告
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(254): warning C4244: '+=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(318): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(339): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(382): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(402): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(424): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\user\desktop\影像處理\hw2\vs2012_p76054088\project1\project1\MyForm.h(425): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+       Link:
+         D:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\影像處理\HW2\VS2012_P76054088\Project1\Release\Project1.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\Project1.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Desktop\影像處理\HW2\VS2012_P76054088\Project1\Release\Project1.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\MyForm.obj
+         "Release\.NETFramework,Version=v4.6.1.AssemblyAttributes.obj"
+         Project1.vcxproj -> C:\Users\User\Desktop\影像處理\HW2\VS2012_P76054088\Project1\Release\Project1.exe
+     1>專案 "C:\Users\User\Desktop\影像處理\HW2\VS2012_P76054088\Project1\Project1\Project1.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.68
