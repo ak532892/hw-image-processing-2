@@ -2,8 +2,7 @@
 
 Homework <br>
 
-
-## HW 1 - Implement different image process effect ##
+## HW 1 - Implement Different Image Process Effect ##
 
 User Interface
 ![alt tag](http://i.imgur.com/QKEgEOo.png)
@@ -22,9 +21,9 @@ SIZE=7×7
 
 4. Thresholding <br>
 TH = 50
-![alt tag](http://i.imgur.com/kQZYwG7.png)
+![alt tag](http://i.imgur.com/ljWhTiz.png)
 TH = 128
-![alt tag](http://i.imgur.com/cE1digR.png)
+![alt tag](http://i.imgur.com/dEEAhuJ.png)
 
 5.	Sobel edge detection
 ![alt tag](http://i.imgur.com/whPjUCd.png)
@@ -38,3 +37,10 @@ TH = 128
 (Mean Filter + Sobel Edge + Thresholding)
 ![alt tag](http://i.imgur.com/UJ8b6eM.png)
 
+## HW 2 - Pupil Detection ##
+
+User Interface
+![alt tag](http://i.imgur.com/4bcjG5h.png)
+
+Results
+![alt tag](http://i.imgur.com/Qur0hBf.png)
