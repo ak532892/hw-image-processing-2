@@ -1,9 +1,9 @@
 # 105-1-DigitalImageProcessing
 
 Homework <br>
-Implement different image process effect.
 
-HW1
+
+## HW 1 - Implement different image process effect ##
 
 User Interface
 ![alt tag](http://i.imgur.com/QKEgEOo.png)
