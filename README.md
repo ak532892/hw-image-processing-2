@@ -1,7 +1,7 @@
 # hw-image-processing
 
 * Course - [Image Processing 105-1](http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0105&sem=1&co_no=P755000&class_code=)
-* C, C++
+* C++
 
 ## HW 1 ##
 Implementing Image Processing Algorithms  
